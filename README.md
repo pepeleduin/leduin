@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leduin 
-- 🌱 I’m Information Technology Engineer
-- 👀 I’m interested in Computer Sciences, Social Studies and Free Software
+- 🌱 I’m PhD Student on Quantum Communication
+- 👀 I’m interested in Computer Sciences, specially on Optimization Methods
 - 💞️ I’m looking to collaborate on multidisciplinar projects 
 - 📫 How to reach me: pepeleduin@duck.com
 
